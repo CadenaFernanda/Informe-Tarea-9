@@ -2,8 +2,18 @@
 
 # Informe-Tarea-9
 
+OBJETIVOS:
 
-# Bibliografia: 
+OBJETIVO GENERAL:
 
-Miller, A. H. (2007). Análisis de circuitos. Teoría y práctica. México: CENGAGE Learning.
+*
 
+OBJETIVOS ESPECÍFICOS :
+
+*
+
+*
+
+*
+
+*
