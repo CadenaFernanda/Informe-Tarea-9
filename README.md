@@ -6,6 +6,7 @@
 
 Objetivo general 
 
+Estudiar los fundamentos de los transformadores y circuitos acoplados, asi mismo sobre sistemas de tres fases, tener en cuenta su reseña historica, conceptos basicos, el uso de formulas de cada tema y subtema, el diseño de circuitos mediante los mismo y la resolucion de ejercicos.
 Objetivos específicos 
 
 # Marco teorico
