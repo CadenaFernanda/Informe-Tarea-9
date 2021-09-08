@@ -10,15 +10,20 @@ Objetivos específicos
 
 # Marco teorico
 
-* Capítulo 17: 
+* Capítulo 23:
 
-* Capítulo 18: 
+![image](https://user-images.githubusercontent.com/84587091/132599102-2fa83d24-09bf-4bfe-a250-a084ac5222ac.png)
+
+![image](https://user-images.githubusercontent.com/84587091/132599155-50cd1669-35d0-4934-9494-caa96c81346e.png)
+
+
+* Capítulo 24: 
 
 # Ejercicos 
 
-* Ejercicos capítulo 17:
+* Ejercicos capítulo 23:
 
-* Ejercicos capitulo 18:
+* Ejercicos capitulo 24:
 
 # Video
 
