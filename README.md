@@ -24,7 +24,7 @@ Objetivos específicos:
 
 * Link: 
 
-# Bibliografia: 
+# Bibliografía: 
 
 Miller, A. H. (2007). Análisis de circuitos. Teoría y práctica. México: CENGAGE Learning.
 
