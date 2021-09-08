@@ -2,11 +2,11 @@
 
 # Informe-Tarea-9
 
-# Objetivos: 
+# Objetivos 
 
-Objetivo general: 
+Objetivo general 
 
-Objetivos específicos: 
+Objetivos específicos 
 
 # Marco teorico
 
@@ -14,7 +14,7 @@ Objetivos específicos:
 
 * Capítulo 18: 
 
-# Ejercicos: 
+# Ejercicos 
 
 * Ejercicos capítulo 17:
 
@@ -24,7 +24,7 @@ Objetivos específicos:
 
 * Link: 
 
-# Bibliografía: 
+# Bibliografía 
 
 Miller, A. H. (2007). Análisis de circuitos. Teoría y práctica. México: CENGAGE Learning.
 
