@@ -21,6 +21,9 @@ Objetivos específicos
 
 * Capítulo 24: 
 
+![image](https://user-images.githubusercontent.com/84427371/132600625-12b2d4cd-faad-45bd-a649-fee4a6feb1c3.png)
+
+
 # Ejercicos 
 
 * Ejercicos capítulo 23:
