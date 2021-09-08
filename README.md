@@ -18,7 +18,11 @@ Objetivos específicos:
 
 * Ejercicos capítulo 17:
 
-* Ejercicos capitulo 18: 
+* Ejercicos capitulo 18:
+
+# Video
+
+* Link: 
 
 # Bibliografia: 
 
