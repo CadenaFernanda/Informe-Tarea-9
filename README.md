@@ -379,6 +379,8 @@ Tenemos una idea más clara sobre los transformadores y sus características fun
 
 * Link: 
 
+https://youtu.be/a_E0MXWp7NQ
+
 # Bibliografía 
 
 Miller, A. H. (2007). Análisis de circuitos. Teoría y práctica. México: CENGAGE Learning.
