@@ -169,7 +169,7 @@ b. Determine Ig, IL, y VL.
 
 29. Para la figura 23-78
 
-![image](https://user-images.githubusercontent.com/84587120/132625419-24ea0c3d-a3be-4f4b-bed8-01fcfc49924e.png) Para cada circuito indique qué signo usar con M, más o menos.
+ Para cada circuito indique qué signo usar con M, más o menos.
 
 ![image](https://user-images.githubusercontent.com/84427371/132626900-1986f621-8c87-4d21-8932-79a7c262f315.png)
 
