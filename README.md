@@ -366,6 +366,11 @@ a. Dibuje tres vatímetros correctamente en el circuito b. Calcule la lectura de
 
 ![image](https://user-images.githubusercontent.com/84587120/132628637-156936b6-e51d-4ec7-9291-9913caddc613.png)
 
+# Conclusiones:
+
+Al analizar los transformadores hemos podido comprender de mejor manera en qué campos se usan los sistemas trifásicos, además de tener una mejor idea a la hora de emplearlos de forma correcta y resolver cualquier tipo de operación o ejercicio.
+Tenemos una idea más clara sobre los transformadores y sus características fundamentales.
+
 # Recomendacion:
 
 -Se recomienda hacer uso de diversas aplicaciones como calculadoras, simuladores, entre otros; para un mejor comprendimiento del tema estudiado.
