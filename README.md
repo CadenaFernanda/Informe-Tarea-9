@@ -316,9 +316,13 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 
 43 .V_Ab=208 V para una carga balanceada Y, P_T=1200 W, y Q_T=750 VAR/ind. Seleccione V_an como referencia y determine I_a (Use el triángulo de potencia)
 
+![image](https://user-images.githubusercontent.com/84587120/132628903-83290055-6508-49f9-9d7c-067e24cb6aae.png)
+
 45 .Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C=120 μF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
 
 ![image](https://user-images.githubusercontent.com/84427371/132627849-1c4e7ffe-81cb-4b38-a672-93daae08f6fb.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132628863-ac018ba7-4e9c-4359-9704-aee8c8745665.png)
 
 47.Para la figura 24-47, el voltaje de fase del generador es de 120 Volts.
 
@@ -326,11 +330,19 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 
 a. Dibuje tres vatímetros correctamente en el circuito b. Calcule la lectura de cada uno c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.
 
+![image](https://user-images.githubusercontent.com/84587120/132628792-371d90d4-561f-4243-ac58-053056bd30f0.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132628833-77632be7-ed9e-400e-b419-0be06247ac1f.png)
+
 49 .Para el circuito de la figura 24-56, V_ab=208 V <30º. a. Determine la magnitud y ángulo de las corrientes. b. Determine la potencia por fase y la potencia total, PT c. Calcule las lecturas de cada vatímetro. d. Sume las lecturas de los medidores y compare los resultados para PT. de (b).
 
 ![image](https://user-images.githubusercontent.com/84427371/132627994-be40c553-0d10-4415-9576-21d95a653ff4.png)
 
+![image](https://user-images.githubusercontent.com/84587120/132628756-dc0713f6-9d13-4751-9b90-42475341244a.png)
+
 51 .Considere el circuito de la figura 24-56. a. Calcule el factor de potencia a partir del ángulo de las impedancias de fase. b. En el problema 49 se determinaron las lecturas del vatímetro en P_H=1164 W y P_l=870 W. Sustituya estos valores en la ecuación 24-24 y calcule el factor de potencia de la carga. Compare sus resultados con los incisos (a).
+
+![image](https://user-images.githubusercontent.com/84587120/132628720-1a4483ae-c71e-40c9-925b-0d13036a0224.png)
 
 24-7 Cargas Balanceadas
 
@@ -346,11 +358,13 @@ a. Dibuje tres vatímetros correctamente en el circuito b. Calcule la lectura de
 
 ![image](https://user-images.githubusercontent.com/84427371/132628098-e8fdbd8e-ff40-4e09-95f8-ef7187e538e2.png)
 
+![image](https://user-images.githubusercontent.com/84587120/132628673-7f36d3c0-39a3-45a6-be77-64dee70ddaa0.png)
+
 57 .A partir del problema 56, I_a=1.94 A < -0.737º , I_b=4.0 A <-117.7º e I_c=3.57 A <91.4º. Calcule lo siguiente: a. Los voltajes en cada fase de la carga. b. El voltaje entre el neutro y la carga y el neutro del generador.
 
 ![image](https://user-images.githubusercontent.com/84427371/132628143-a918c6e6-5237-4bb5-ad82-ca20f53fbff6.png)
 
-
+![image](https://user-images.githubusercontent.com/84587120/132628637-156936b6-e51d-4ec7-9291-9913caddc613.png)
 
 
 
