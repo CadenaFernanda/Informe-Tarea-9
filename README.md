@@ -366,7 +366,9 @@ a. Dibuje tres vatímetros correctamente en el circuito b. Calcule la lectura de
 
 ![image](https://user-images.githubusercontent.com/84587120/132628637-156936b6-e51d-4ec7-9291-9913caddc613.png)
 
+# Recomendacion:
 
+-Se recomienda hacer uso de diversas aplicaciones como calculadoras, simuladores, entre otros; para un mejor comprendimiento del tema estudiado.
 
 # Video
 
