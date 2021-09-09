@@ -36,7 +36,8 @@ Objetivos específicos
 
 1. Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan.
 
-![image](https://user-images.githubusercontent.com/84587091/132604430-48b0560c-1001-4e00-b711-cc26634602cc.png)
+![image](https://user-images.githubusercontent.com/84587120/132624473-6ade44ca-04c5-47db-a5d4-bf07b67e9200.png)
+
 
 23-2 Transformadores de núcleo de hierro: el modelo ideal
 
@@ -44,31 +45,57 @@ Objetivos específicos
 
 a. ¿El voltaje se eleva o se reduce?
 
+![image](https://user-images.githubusercontent.com/84587120/132624519-c968af5d-e290-489a-a417-99103a0d8104.png)
+
 b. Si es = 100 sen qt, ¿qué valor tiene ep cuando se devana como en la figura 23-7(a)?
+
+![image](https://user-images.githubusercontent.com/84587120/132624579-abf11c1d-c50d-4ebe-97c2-58e5de1527ea.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132624602-42a0568e-c838-42ae-8c62-01d548892086.png)
 
 c. Si Es = 24 volts, ¿qué valor tiene Ep?
 
+![image](https://user-images.githubusercontent.com/84587120/132624619-908ddd67-5637-4edb-8cab-b9fe50101950.png)
+
 d. Si Ep = 24 V∠0°, ¿qué valor tiene Es cuando se devana como en la figura 23-7(a)?
 
+![image](https://user-images.githubusercontent.com/84587120/132624656-cc1e84ab-aad7-453c-8023-39fcfd9fc9ec.png)
+
 e. Si Ep = 800 V∠0°, ¿qué valor tiene Es cuando se devana como en la figura 23-7(b)?
+
+![image](https://user-images.githubusercontent.com/84587120/132624674-e1767be5-8be3-4283-b86b-cb5988bfd51d.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132624706-a2c81d28-7661-4976-b93f-cd2296abbbef.png)
 
 5. Para la figura 23-72, determine las expresiones para v1, v2 y v3.
 
 ![image](https://user-images.githubusercontent.com/84587091/132605135-6d2a4928-4ec9-4c10-a839-40f3fe37ccb5.png)
 
+![image](https://user-images.githubusercontent.com/84587120/132624746-37d00e22-d9df-4ea8-8388-01d28a749c87.png)
+
 7. Si, para la figura 23-73, Eg = 240 V∠0°, a = 0.5, e Ig = 2 A∠20°, determine lo siguiente:
 
 a. IL 
 
+![image](https://user-images.githubusercontent.com/84587120/132624923-89a075ac-0153-4769-9bfd-ed55b8641f8f.png)
+
 b. VL 
 
+![image](https://user-images.githubusercontent.com/84587120/132624944-ed9a22b7-0c74-4bfd-9af9-b9b79295b20a.png)
+
 c. ZL
+
+![image](https://user-images.githubusercontent.com/84587120/132624974-b792f119-6128-4867-91c8-c9abdb94c0fa.png)
 
 9. Si, para la figura 23-73, a = 4, Ig = 4 A∠30°, y ZL = 6 Ω-j8 Ω, determine lo siguiente:
 
 a. VL 
 
+![image](https://user-images.githubusercontent.com/84587120/132625108-ad1a08c6-a4fd-495d-b862-af5b23dd6411.png)
+
 b. Eg
+
+![image](https://user-images.githubusercontent.com/84587120/132625124-459ca26b-a552-42c3-be10-8a5e21afb71e.png)
 
 23-3 Impedancia reflejada
 
@@ -76,13 +103,26 @@ b. Eg
 
 ![image](https://user-images.githubusercontent.com/84587091/132605512-2d116268-b448-49c3-882f-f895d0095abe.png)
 
+![image](https://user-images.githubusercontent.com/84587120/132625216-0f7f907b-1d20-4f17-b33c-b6ce8f33d3ee.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132625244-6adfd796-2019-498a-8b3f-c0f47cfa5a19.png)
+
 13. Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp =(62.5-j125) Ω?
 
 ![image](https://user-images.githubusercontent.com/84587091/132605652-a86d1a3a-b79d-4b3d-9850-0348829afc43.png)
 
+![image](https://user-images.githubusercontent.com/84587120/132625265-0180a0ab-5b66-412f-b2db-4a74d2e9a6c8.png)
+
 15. Para cada circuito de la figura 23-75, determine ZT.
 
 ![image](https://user-images.githubusercontent.com/84587091/132605847-19aeb545-7dff-4993-ba3e-06bd8bab16bf.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132625290-c97284f4-435f-47b2-992f-c04d10598e5d.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132625911-7d694431-3f8d-403d-86b0-3a0636919b2c.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132625938-0c455995-f715-4160-a652-1a69ef8df8bc.png)
+
 
 23-4 Especificaciones del transformador de potencia
 
@@ -111,6 +151,51 @@ d. Ip
 a. Dibuje el circuito equivalente.
 
 b. Determine Ig, IL, y VL.
+
+27. Un transformador que entrega Psal=48 kW tiene un pérdida en el núcleo de280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
+
+23-9 Circuitos débilmente acoplados
+
+29. Para la figura 23-78 ![image](https://user-images.githubusercontent.com/84587120/132625419-24ea0c3d-a3be-4f4b-bed8-01fcfc49924e.png) Para cada circuito indique qué signo usar con M, más o menos.
+
+![image](https://user-images.githubusercontent.com/84587120/132626484-5ee2ea9d-5155-49b4-875d-2b4a3e8dbbfc.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132626435-a27fc578-8d24-4f55-9040-292f3abe3b29.png)
+
+31. Para un conjunto de bobinas acopladas, L1 = 2 H, M = 0.8 H y el coeficiente de acoplamiento es de 0.6. Determine L2.
+
+![image](https://user-images.githubusercontent.com/84587120/132626412-4d9c9841-df9e-4052-9496-36f61327ac2e.png)
+
+33. Todo igual que en el problema 32, excepto que i1 = 10 e elevado -500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t = 1 ms
+
+![image](https://user-images.githubusercontent.com/84587120/132626388-487ccb4a-d159-4f75-9357-54d52d6f15a9.png)
+
+35. Para la figura 23-80, determine LT.
+
+![image](https://user-images.githubusercontent.com/84587120/132625817-c31f0a89-153b-4b17-a310-ef2ac29d2cf9.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132626366-c3b82599-1e55-4f42-a18e-580b555f22ca.png)
+
+37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
+
+![image](https://user-images.githubusercontent.com/84587120/132626041-e337fb51-be98-486b-afe6-0022b89042c6.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132626288-85131674-d117-41ed-bc68-cb4bf689bfe4.png)
+
+23-10 Circuitos acoplados magnéticamente con excitación sinusoidal 
+
+39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla.
+
+![image](https://user-images.githubusercontent.com/84587120/132626129-2ecd63e7-1b87-4a09-8e0b-e7a3ca2931fd.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132626254-2411e096-343e-411d-9c3f-6b1ea75cc056.png)
+
+41. Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
+
+![image](https://user-images.githubusercontent.com/84587120/132626179-5b01e984-ac84-4cad-8d71-a30c67be31b4.png)
+
+![image](https://user-images.githubusercontent.com/84587120/132626221-549481b6-3b9c-42a4-bc22-17a9fa331c98.png)
+
 
 * Ejercicos capitulo 24:
 
