@@ -10,6 +10,10 @@ Estudiar los fundamentos de los transformadores y circuitos acoplados, así mism
 
 Objetivos específicos 
 
+•	Analizar la acción de los transformadores, su clasificación, las relaciones de voltaje y corriente, sus aplicaciones, entre otros aspectos fundamentales dentro de cada tema y subtema.
+
+•	Comprender en que campos se usan los sistemas de tres fases (sistemas trifásicos), la forma correcta de emplearlos y resolver cualquier tipo de operaciones y ejercicios con los mismos.    
+
 # Marco teorico
 
 * Capítulo 23:
