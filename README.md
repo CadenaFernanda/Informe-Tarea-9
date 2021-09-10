@@ -128,6 +128,8 @@ b. Eg
 
 17. Un transformador tiene una especificación de voltaje primario de 7.2 kV, a = 0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación de kVA?
 
+![image](https://user-images.githubusercontent.com/84427371/132793887-c4ff9fdc-63dc-42fe-a436-601c8bcade10.png)
+
 23-5 Aplicaciones del transformador
 
 19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de 2400 W con Fp = 1.0, determine
@@ -140,12 +142,18 @@ c. IN
 
 d. Ip
 
+![image](https://user-images.githubusercontent.com/84427371/132794188-9be99737-de0a-4c95-bd1f-38ad6020af3c.png)
+
+![image](https://user-images.githubusercontent.com/84427371/132794206-21312fba-ecbf-437b-b1ee-7c875a923c7d.png)
+
+
 21. Un amplificador con un equivalente de Thévenin de 10 V y RTh de 25 Ω maneja una bocina de 4 Ω a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
 
 23. Para la figura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20 Ω∠50°, Z3 = (12 + j4) Ω y Eg = 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.
 
 ![image](https://user-images.githubusercontent.com/84427371/132626697-5f1b7226-b579-4ffb-ac46-b887c4224bb4.png)
 
+![image](https://user-images.githubusercontent.com/84427371/132794502-55e4e4e6-f377-4187-aaab-4a785691d04f.png)
 
 23-6 Transformadores de núcleo de hierro prácticos
 
@@ -224,7 +232,6 @@ b. Sume las corrientes. ¿Se cumple IA + IB + IC = 0?
 
 ![image](https://user-images.githubusercontent.com/84427371/132627223-1d5a412c-4035-4eba-a4f8-b2bf236c2efb.png)
 
-3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada.
 
 24-3 Relaciones trifásicas básicas
 
@@ -284,21 +291,29 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 
 ![image](https://user-images.githubusercontent.com/84427371/132627658-ad5cb9c6-d80a-441a-b1a5-461a8bd360e5.png)
 
-23. Para la figura 24-48, EAN = 120 V∠-10°. Encuentre la corriente de línea con el método equivalente de una sola fase.
-
-![image](https://user-images.githubusercontent.com/84587091/132619957-076d05a3-3dac-4de0-a994-51db1a3cf802.png)
 
 25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlínea de 0.15 Ω+j0.25 Ω y EAN = 120 V∠0°. Convierta la carga en Y y use el equivalente de una fase para encontrar las corrientes de línea.
 
 ![image](https://user-images.githubusercontent.com/84587091/132621881-1f3a23b7-4302-4f5d-8004-91d19dc356b9.png)
 
+![image](https://user-images.githubusercontent.com/84427371/132794812-730d15fb-69eb-49f1-8c8e-1c8f0a6c4a15.png)
+
 27. Para el circuito de la figura 24-49, suponga que Zlínea = 0.15 Ω+j0.25 Ω y Vab = 600 V∠30°. Determine EAB.
+
+![image](https://user-images.githubusercontent.com/84427371/132794912-33cc34b9-132c-4a82-ae02-179ccf07cb19.png)
+
 
 29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga es Va'b' = 480 V∠30°. Encuentre el voltaje del generador EAB, magnitud y ángulo.
 
 ![image](https://user-images.githubusercontent.com/84587091/132622240-3deadce9-d7ff-4774-bbca-e28e705cfab8.png)
 
+![image](https://user-images.githubusercontent.com/84427371/132795233-5575059b-7518-4e1d-96b7-e773e4a77324.png)
+
+![image](https://user-images.githubusercontent.com/84427371/132795259-c87c9333-0029-4986-b8bf-b48bdc662b0f.png)
+
 31. Para la figura 24-21(a), ZY = 15 Ω+j20 Ω, Z = 9 Ω-j12 Ω, Zlínea = 0.1Ω+j0.1 Ω, e Ia'b' = 40 A∠73.13°. Encuentre el voltaje de fase Y Van, magnitud y ángulo.
+
+![image](https://user-images.githubusercontent.com/84427371/132795406-80bc525a-f459-440e-a201-999c33f457ae.png)
 
 24-5 Potencia en sistemas balanceados
 
@@ -306,13 +321,21 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 
 ![image](https://user-images.githubusercontent.com/84427371/132627697-dbb848a2-78d3-4080-a43e-4b7e1c3a76f1.png)
 
+![image](https://user-images.githubusercontent.com/84427371/132795564-3fc09e10-a0ec-4251-b12c-658724907a45.png)
+
+![image](https://user-images.githubusercontent.com/84427371/132795582-97f6d662-adff-4d33-9ddb-c8232d92a042.png)
+
 35 . Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.
 
 ![image](https://user-images.githubusercontent.com/84427371/132627720-d307ab5b-29a9-41f6-abc4-a31e400b77e0.png)
 
+![image](https://user-images.githubusercontent.com/84427371/132795659-b669dea8-c402-4f24-9333-e5a083d8c2dd.png)
+
 37 .Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36
 
 ![image](https://user-images.githubusercontent.com/84427371/132627779-08997c3e-c913-4dfe-a602-91eb637bed94.png)
+
+![image](https://user-images.githubusercontent.com/84427371/132795790-0818c71b-f32a-4409-94b6-bc4058b5699e.png)
 
 43 .V_Ab=208 V para una carga balanceada Y, P_T=1200 W, y Q_T=750 VAR/ind. Seleccione V_an como referencia y determine I_a (Use el triángulo de potencia)
 
